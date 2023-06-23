@@ -1,0 +1,64 @@
+*{
+
+    margin: 0;
+    padding: 0;
+
+}
+
+html {
+    scroll-behavior: smooth;
+    transition: 3%;
+}
+
+.nav-wrapper{
+    background-color: rgb(221, 138, 166);
+    position: sticky !important;
+}
+
+.logoimg{
+    margin-top: 4px;
+}
+
+.nav-wrapper a{
+    color: rgb(0, 0, 0);
+    font-family:Georgia, 'Times New Roman', Times, serif, Geneva, Tahoma, sans-serif
+}
+
+
+.header{
+    color: rgb(0, 0, 0);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-top: 5%;
+}
+
+h1{
+    color: rgb(0, 0, 0);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+
+p{
+    text-align: justify;
+    text-indent: 5%;
+    font-size: 120%;
+}
+.list{
+    text-align: justify;
+    padding-left: 5%;
+    
+}
+
+ol{
+    padding-left: 6%;
+    font-size: 120%;
+}
+
+.page-footer{
+    background: linear-gradient(90deg, rgba(180,58,136,1) 0%, rgba(43,29,253,1) 49%, rgba(69,211,252,1) 100%)
+!important;
+}
+
+.footer-copyright{
+    text-align: center;
+    background-color: black;
+}
